@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>[Your Name]</h1>
-  <p>[Your Short Introduction/Tagline]</p>
+  <h1>Austin W.</h1>
+  <p><strong>Impossible is just an opinion</strong></p>
 
   <img src="https://lh3.googleusercontent.com/a/ACg8ocLSFPSEuTKSKvnTYHn5-SesPO5fHDbtkwU47ZIinb1olsJfU7W9=s96-c-rg-br100" alt="Profile Picture" width="150" style="border-radius: 50%;"/>
 </div>
