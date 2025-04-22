@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Austin!
 
 Welcome to my GitHub profile! I'm passionate about [Your Interests/Fields, e.g., "Open Source Development", "Machine Learning", "Web Development"], and I love creating, collaborating, and contributing to projects that make an impact. 
 
@@ -6,11 +6,7 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests/Fields, e.g.,
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: [Technologies/Skills you're learning, e.g., "Rust", "Kubernetes"]
-- 👯 I’m looking to collaborate on: [Types of projects, e.g., "Open Source AI/ML projects"]
-- 🤔 I’m looking for help with: [Specific areas where you'd like guidance, e.g., "Mastering Docker and Kubernetes"]
-- 💬 Ask me about: [Your expertise or favorite topics, e.g., "Full-Stack Development", "APIs"]
-- ⚡ Fun fact: [A fun fact about yourself, e.g., "I can solve a Rubik's cube in under a minute!"]
+- 🌱 I’m currently learning: Rust :crab:, Python :snake:, Automation :gear:, AI & ML :robot:
 
 ---
 
